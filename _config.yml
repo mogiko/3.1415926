@@ -77,11 +77,11 @@ disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-  proxy:
+  clientID: 9d19a05417c4c622f490
+  clientSecret: 2be4155596fbac4dd52eba5126bfdf7c62346b70
+  repo: 3.1415926
+  owner: mogiko
+  proxy: https://mogiko.github.io/3.1415926/
 
 # 输入Google Analytics web tracking code
 google_analytics:
